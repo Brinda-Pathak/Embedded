@@ -1,6 +1,8 @@
 package com.src;
 
 import android.content.Context;
+
+// New added
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
