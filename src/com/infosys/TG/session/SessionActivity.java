@@ -9,6 +9,6 @@ public class SessionActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        //Brinda comment
+        //Brinda comment dev
     }
 }
