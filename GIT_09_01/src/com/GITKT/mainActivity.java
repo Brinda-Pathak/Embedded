@@ -9,5 +9,7 @@ public class mainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        int i;
+        
     }
 }
